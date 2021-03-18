@@ -64,14 +64,19 @@ Predicting "goals accounted for" would be valuable. We can try to use network st
 * The left side has always been sparse but even more so in 2019-2020
   * It might be interesting to do further analysis for the years Barcelona had Neymar to see how the right side would change
 * Is there life after Messi?
+ * The importance of Messi to Barcelona cannot be understated (see network statistics/visualizations)
 
 ### Implications for all Soccer Teams
 
 * PageRank as a scouting method
+ * PageRank has been shown to be a valuable predictor of goals. It might be a great way to scout players and find attackers that will contribute.
 * Cliques to detect most valuable/involved players
+ * Finding the largest clique in a team seems to be a great way to find which players are most involved and important to the team's play
 * Certain things not taken into account:
   * Defense
+   * Network statistics do not capture any defensive statistics very well
   * Age/Development
+   * Players like Fati in 2019-20 may have had low network scores but his potential is enormous
 
 
 
